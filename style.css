@@ -1,0 +1,32 @@
+html {
+    padding: 0;
+    margin: 0;
+
+}
+
+.rounded-pic {
+    border-radius: 50%;
+}
+
+.heart {
+    height: 250px;
+    z-index: -1;
+}
+
+.heart.one {
+    position: absolute;
+    top: 5rem;
+    left: 7rem;
+}
+
+.heart.two {
+    position: absolute;
+    top: 10rem;
+    left: 60rem;
+}
+
+.heart.three {
+    position: absolute;
+    top: 35rem;
+    left: 14rem;
+}
